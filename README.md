@@ -51,7 +51,7 @@ admin.site.register(Movies,MoviesAdmin)
 
 ## OUTPUT
 
-![alt text](<../Screenshot 2025-09-16 233056.png>)
+![alt text](<Screenshot 2025-09-16 233056.png>)
 
 
 ## RESULT
